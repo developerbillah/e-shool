@@ -123,6 +123,7 @@ body{
 	font-weight: 800;
 }
 
+.course-review{display: block;overflow: hidden;}
 .course{}
 .course ul{margin:0;padding:0;}
 .course ul li{list-style:none;font-size:16px;font-weight:normal;font-family: Poppins;}
